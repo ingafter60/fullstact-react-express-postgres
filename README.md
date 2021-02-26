@@ -56,3 +56,16 @@ https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn
         new file:   server/views/error.jade
         new file:   server/views/index.jade
         new file:   server/views/layout.jade		
+
+## B. Cleaning Up the setup
+
+### 1. Deleting node_modules, routes, views and public folders
+
+        modified:   .gitignore
+        modified:   README.md
+        deleted:    server/public/stylesheets/style.css
+        deleted:    server/routes/index.js
+        deleted:    server/routes/users.js
+        deleted:    server/views/error.jade
+        deleted:    server/views/index.jade
+        deleted:    server/views/layout.jade
