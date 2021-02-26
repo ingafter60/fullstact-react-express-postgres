@@ -96,6 +96,16 @@ https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn
         modified:   server/package-lock.json
         modified:   server/package.json
 
+### 3. Replacing package.json file by the same from the source (tutorial)
+
+        modified:   README.md
+        modified:   client/package-lock.json
+        modified:   client/package.json
+        modified:   client/src/App.js
+        modified:   client/src/index.js
+        modified:   server/main/routes.js
+        
+
 ### 11. Making api requests with axios
 
 

@@ -10,7 +10,7 @@ class App extends Component {
   }
 
   componentDidMount(){
-    axios.get('/hai')
+    axios.get('/hello')
       .then(res => this.setState({hello: res.data}))
       .catch(err => console.log(err))
   }
