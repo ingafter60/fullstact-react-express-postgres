@@ -110,6 +110,12 @@ https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn
         modified:   README.md
         modified:   server/main/routes.js
 
+### 5. House keeping and gihub repository
+
+        modified:   .gitignore
+        modified:   README.md
+        https://github.com/ingafter60/fullstact-react-express-postgres
+        
 ### 11. Making api requests with axios
 
 
