@@ -76,3 +76,39 @@ https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn
         deleted:    server/app.js
         modified:   server/bin/www
         new file:   server/main/app.js
+
+
+### C. Making running the fullstact-react app
+
+
+### 1. Node and npm
+
+		PASS
+
+
+### 2. (not found http://localhost:3000/hai) Setting up a proxy and making API requests
+
+        new file:   client/package-lock.json
+        modified:   client/package.json
+        modified:   client/src/App.js
+        modified:   server/main/app.js
+        new file:   server/main/routes.js
+        modified:   server/package-lock.json
+        modified:   server/package.json
+
+### 11. Making api requests with axios
+
+
+### 12. Axios vs fetch
+
+
+### 13. Axios vs react-router vs express router
+
+
+### 14. How CORS works
+
+
+### 15. Why not use an ORM like sequelize
+
+
+### 16. Why not use Redux Form        
