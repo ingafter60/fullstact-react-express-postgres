@@ -81,7 +81,7 @@ Github: https://github.com/ingafter60/fullstact-react-express-postgres
         new file:   server/main/app.js
 
 
-### C. Making running the fullstact-react app
+## C. Making running the fullstact-react app
 
 
 ### C.1.6 Node and npm
@@ -119,6 +119,10 @@ Github: https://github.com/ingafter60/fullstact-react-express-postgres
         modified:   README.md
 
 ### C.5.11 Modify README.md 
+
+        modified:   README.md
+
+### C.5.12 Modify README.md 
 
         modified:   README.md
 
