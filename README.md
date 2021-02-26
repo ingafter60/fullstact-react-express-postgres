@@ -37,3 +37,22 @@ https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn
         new file:   client/src/reportWebVitals.js
         new file:   client/src/setupTests.js
         new file:   client/yarn.lock
+
+### 3. Creating express app 'server' 
+
+		> install express globally
+		E:\2021\Fullstack\full-stack-react\server
+		λ express
+
+        modified:   .gitignore
+        modified:   README.md
+        new file:   server/app.js
+        new file:   server/bin/www
+        new file:   server/package-lock.json
+        new file:   server/package.json
+        new file:   server/public/stylesheets/style.css
+        new file:   server/routes/index.js
+        new file:   server/routes/users.js
+        new file:   server/views/error.jade
+        new file:   server/views/index.jade
+        new file:   server/views/layout.jade		
