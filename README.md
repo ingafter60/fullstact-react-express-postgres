@@ -1,15 +1,18 @@
 # BUILDING A BLOG USING FULLSTACT REACT AND POSGRESQL
-https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn/lecture/16146293#overview
+
+The course: https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn/lecture/16146293#overview
+
+Github: https://github.com/ingafter60/fullstact-react-express-postgres
 
 
 ## A. Initial setup
 
-### 1. Initial commit
+### A.1.1 Initial commit
 
         new file:   .gitignore
         new file:   README.md
 
-### 2. Creating React App 'client' 
+### A.2.2 Creating React App 'client' 
 
 		E:\2021\Fullstack\full-stack-react\client
 		λ npx create-react-app client
@@ -38,7 +41,7 @@ https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn
         new file:   client/src/setupTests.js
         new file:   client/yarn.lock
 
-### 3. Creating express app 'server' 
+### A.3.3 Creating express app 'server' 
 
 		> install express globally
 		E:\2021\Fullstack\full-stack-react\server
@@ -59,7 +62,7 @@ https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn
 
 ## B. Cleaning Up the setup
 
-### 1. Deleting node_modules, routes, views and public folders
+### B.1.4 Deleting node_modules, routes, views and public folders
 
         modified:   .gitignore
         modified:   README.md
@@ -70,7 +73,7 @@ https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn
         deleted:    server/views/index.jade
         deleted:    server/views/layout.jade
 
-### 2. Creating new structures in the server
+### B.2.5 Creating new structures in the server
 
         modified:   README.md
         deleted:    server/app.js
@@ -81,12 +84,12 @@ https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn
 ### C. Making running the fullstact-react app
 
 
-### 1. Node and npm
+### C.1.6 Node and npm
 
 		PASS
 
 
-### 2. (not found http://localhost:3000/hai) Setting up a proxy and making API requests
+### C.2.7 (not found http://localhost:3000/hai) Setting up a proxy and making API requests
 
         new file:   client/package-lock.json
         modified:   client/package.json
@@ -96,7 +99,7 @@ https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn
         modified:   server/package-lock.json
         modified:   server/package.json
 
-### 3. Replacing package.json file by the same from the source (tutorial)
+### C.3.8 Replacing package.json file by the same from the source (tutorial)
 
         modified:   README.md
         modified:   client/package-lock.json
@@ -105,17 +108,22 @@ https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn
         modified:   client/src/index.js
         modified:   server/main/routes.js
 
-### 4. Boilerplating Fullstack React-Express
+### C.4.9 Boilerplating Fullstack React-Express
 
         modified:   README.md
         modified:   server/main/routes.js
 
-### 5. House keeping and gihub repository
+### C.5.10 House keeping and gihub repository
 
         modified:   .gitignore
         modified:   README.md
-        https://github.com/ingafter60/fullstact-react-express-postgres
-        
+
+### C.5.11 Modify README.md 
+
+        modified:   README.md
+
+
+
 ### 11. Making api requests with axios
 
 
