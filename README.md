@@ -69,3 +69,10 @@ https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn
         deleted:    server/views/error.jade
         deleted:    server/views/index.jade
         deleted:    server/views/layout.jade
+
+### 2. Creating new structures in the server
+
+        modified:   README.md
+        deleted:    server/app.js
+        modified:   server/bin/www
+        new file:   server/main/app.js
