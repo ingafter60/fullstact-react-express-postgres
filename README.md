@@ -8,3 +8,32 @@ https://www.udemy.com/course/react-fullstack-with-nodeexpress-psql-and-aws/learn
 
         new file:   .gitignore
         new file:   README.md
+
+### 2. Creating React App 'client' 
+
+		E:\2021\Fullstack\full-stack-react\client
+		λ npx create-react-app client
+
+		Delete:
+		.gitignore
+		README.md
+		.git
+
+        modified:   .gitignore
+        modified:   README.md
+        new file:   client/package.json
+        new file:   client/public/favicon.ico
+        new file:   client/public/index.html
+        new file:   client/public/logo192.png
+        new file:   client/public/logo512.png
+        new file:   client/public/manifest.json
+        new file:   client/public/robots.txt
+        new file:   client/src/App.css
+        new file:   client/src/App.js
+        new file:   client/src/App.test.js
+        new file:   client/src/index.css
+        new file:   client/src/index.js
+        new file:   client/src/logo.svg
+        new file:   client/src/reportWebVitals.js
+        new file:   client/src/setupTests.js
+        new file:   client/yarn.lock
